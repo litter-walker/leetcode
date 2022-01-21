@@ -31,7 +31,6 @@ public class Text0002 {
     public static void main(String[] args) {
         ListNode l1 = new ListNode(new int[]{9, 9, 9, 9, 9, 9, 9});
         ListNode l2 = new ListNode(new int[]{9, 9, 9, 9});
-
         System.out.println("l1 = " + l1);
         System.out.println("l2 = " + l2);
         System.out.println("addTwoNumbers(l1, l2) = " + addTwoNumbers(l1, l2));
