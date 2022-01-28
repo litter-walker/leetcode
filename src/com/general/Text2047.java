@@ -1,8 +1,6 @@
 package com.general;
 
 
-import java.util.regex.Pattern;
-
 public class Text2047 {
 
     public static int countValidWords(String sentence) {
