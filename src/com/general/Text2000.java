@@ -14,7 +14,6 @@ public class Text2000 {
         StringBuilder ansStrBd = new StringBuilder(word.substring(0, idxCh + 1));
         ansStrBd = ansStrBd.reverse().append(word.substring(idxCh + 1));
         return ansStrBd.toString();
-
     }
 
     public static void main(String[] args) {
