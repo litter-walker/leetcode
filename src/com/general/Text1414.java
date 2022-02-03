@@ -20,7 +20,6 @@ public class Text1414 {
         }
         return ans;
     }
-
     public static void main(String[] args) {
         int k = 10;
         System.out.println("k = " + k);
