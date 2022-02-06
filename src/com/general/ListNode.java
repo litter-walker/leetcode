@@ -4,19 +4,19 @@ public class ListNode {
     public int val;
     public ListNode next;
 
-    ListNode() {
+    public ListNode() {
     }
 
-    ListNode(int val) {
+    public ListNode(int val) {
         this.val = val;
     }
 
-    ListNode(int val, ListNode next) {
+    public ListNode(int val, ListNode next) {
         this.val = val;
         this.next = next;
     }
 
-    ListNode(int[] valS) {
+    public ListNode(int[] valS) {
         ListNode listNode = this;
         for (int i = 0; i < valS.length; i++) {
             listNode.val = valS[i];
