@@ -30,8 +30,8 @@ public class ListNode {
     @Override
     public String toString() {
         if (this.next != null) {
-            return this.next.toString() + this.val;
+            return this.val + ", " + this.next.toString();
         }
-        return this.val + "";
+        return this.val + ";";
     }
 }
