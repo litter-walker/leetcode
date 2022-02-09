@@ -1,12 +1,14 @@
 package com.general;
 
+import com.util.ListNode;
+
 import java.util.Arrays;
 import java.util.Random;
 
 public class Text0382 {
 
-    private ListNode listNode = null;
-    private int length = 0;
+    private ListNode listNode;
+    private int length;
 
     public Text0382(ListNode head) {
         this.listNode = head;

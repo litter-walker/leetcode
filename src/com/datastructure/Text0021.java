@@ -1,6 +1,6 @@
 package com.datastructure;
 
-import com.general.ListNode;
+import com.util.ListNode;
 
 /**
  * 双指针

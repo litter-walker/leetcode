@@ -1,4 +1,4 @@
-package com.general;
+package com.util;
 
 public class ListNode {
     public int val;

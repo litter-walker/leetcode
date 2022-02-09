@@ -1,5 +1,7 @@
 package com.general;
 
+import com.util.StockPrice;
+
 /**
  * 解题思路：
  *  使用Map保存数据：时间和价格；

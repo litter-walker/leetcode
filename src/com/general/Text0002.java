@@ -1,5 +1,7 @@
 package com.general;
 
+import com.util.ListNode;
+
 public class Text0002 {
 
     public static ListNode addTwoNumbers(ListNode l1, ListNode l2) {
