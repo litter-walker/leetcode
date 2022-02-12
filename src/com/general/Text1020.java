@@ -8,7 +8,7 @@ import java.util.Arrays;
 public class Text1020 {
 
     private int[][] grid;
-    private int[] dirs = {-1, 0, 1, 0, -1};
+    private final int[] dirs = {-1, 0, 1, 0, -1};
 
     public int numEnclaves(int[][] grid) {
         int m = grid.length, n = grid[0].length;
