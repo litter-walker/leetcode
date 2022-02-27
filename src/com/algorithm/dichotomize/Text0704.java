@@ -1,4 +1,4 @@
-package com.algorithm;
+package com.algorithm.dichotomize;
 
 /**
  * 二分查找
