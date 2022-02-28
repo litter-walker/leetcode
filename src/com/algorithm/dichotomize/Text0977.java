@@ -1,8 +1,11 @@
-package com.day02;
+package com.algorithm.dichotomize;
 
 import java.util.Arrays;
 
-public class test1 {
+/**
+ * 双指针
+ */
+public class Text0977 {
 
 
     public static int[] sortedSquares(int[] nums) {
