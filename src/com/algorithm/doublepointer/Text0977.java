@@ -1,4 +1,4 @@
-package com.algorithm.dichotomize;
+package com.algorithm.doublepointer;
 
 import java.util.Arrays;
 

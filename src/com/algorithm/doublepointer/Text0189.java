@@ -1,4 +1,4 @@
-package com.algorithm.dichotomize;
+package com.algorithm.doublepointer;
 
 /**
  * 直接数组复制
