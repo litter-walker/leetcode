@@ -1,7 +1,7 @@
 package com.datastructure;
 
 /**
- *
+ * 贪心
  */
 public class Text0334 {
 
