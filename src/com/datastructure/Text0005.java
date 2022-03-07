@@ -1,4 +1,4 @@
-package com.algorithm.firstsearch;
+package com.datastructure;
 
 /**
  * 解题思路：
