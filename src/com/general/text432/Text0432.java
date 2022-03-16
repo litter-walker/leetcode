@@ -1,4 +1,4 @@
-package com.datastructure;
+package com.general.text432;
 
 import java.util.HashMap;
 import java.util.HashSet;
