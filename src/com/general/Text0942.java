@@ -20,7 +20,7 @@ public class Text0942 {
                 max--;
             }
         }
-        // 最后 0 ~ n, 之间的数字只剩下一个 ans[n] == max == min
+        // 最后 0 ~ n, 之间的数字只剩下一个可填，且必定满足要求(max 和 min此时相等)
         ans[n] = max;
         return ans;
     }
