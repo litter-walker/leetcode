@@ -1,4 +1,4 @@
-package com.general.text952;
+package com.general.text0952;
 
 import java.util.Arrays;
 import java.util.HashMap;
